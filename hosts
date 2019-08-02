@@ -1,2 +1,2 @@
 [host]
-ninjas ansible_host=localhost
+127.0.0.1
