@@ -1,4 +1,4 @@
-- hosts: ninjas
+- hosts: all
   become: true
   roles:
     - role: nginx-aws
